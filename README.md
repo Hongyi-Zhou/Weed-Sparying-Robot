@@ -11,3 +11,5 @@ Source code for obstacle detection/map building/weed detection/PID controller/st
 All the code are compiled using Code Composer Studio v8.
 
 Website that details the project: sites.goole.com/illinois.edu/bobthebot/home
+
+Team members: Lance Zhou, Priyam Shah, Ashwin Azhagiri, Mateus Jonas, Gayatri Dandu
