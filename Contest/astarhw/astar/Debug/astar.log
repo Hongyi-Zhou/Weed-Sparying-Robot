@@ -1,0 +1,47 @@
+﻿Build started 4/26/2019 3:38:00 PM.
+     1>Project "C:\hzhou39_decamar2_ashwina2\SE423Repo\Contest\astarhw\astar\astar.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\astar.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\astar.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt astar.cpp pQueue.cpp
+         pQueue.cpp
+     1>c:\hzhou39_decamar2_ashwina2\se423repo\contest\astarhw\astar\pqueue.cpp(9): fatal error C1083: Cannot open include file: 'pQueue.h': No such file or directory
+         astar.cpp
+     1>c:\hzhou39_decamar2_ashwina2\se423repo\contest\astarhw\astar\astar.cpp(2): warning C4627: '#include <stdlib.h>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>c:\hzhou39_decamar2_ashwina2\se423repo\contest\astarhw\astar\astar.cpp(3): warning C4627: '#include <math.h>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>c:\hzhou39_decamar2_ashwina2\se423repo\contest\astarhw\astar\astar.cpp(4): warning C4627: '#include <unistd.h>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>c:\hzhou39_decamar2_ashwina2\se423repo\contest\astarhw\astar\astar.cpp(5): warning C4627: '#include <string.h>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>c:\hzhou39_decamar2_ashwina2\se423repo\contest\astarhw\astar\astar.cpp(6): warning C4627: '#include <errno.h>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>c:\hzhou39_decamar2_ashwina2\se423repo\contest\astarhw\astar\astar.cpp(7): warning C4627: '#include <signal.h>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>c:\hzhou39_decamar2_ashwina2\se423repo\contest\astarhw\astar\astar.cpp(8): warning C4627: '#include <fcntl.h>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>c:\hzhou39_decamar2_ashwina2\se423repo\contest\astarhw\astar\astar.cpp(9): warning C4627: '#include <ctype.h>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>c:\hzhou39_decamar2_ashwina2\se423repo\contest\astarhw\astar\astar.cpp(10): warning C4627: '#include <termios.h>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>c:\hzhou39_decamar2_ashwina2\se423repo\contest\astarhw\astar\astar.cpp(11): warning C4627: '#include <sys/types.h>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>c:\hzhou39_decamar2_ashwina2\se423repo\contest\astarhw\astar\astar.cpp(12): warning C4627: '#include <sys/mman.h>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>c:\hzhou39_decamar2_ashwina2\se423repo\contest\astarhw\astar\astar.cpp(13): warning C4627: '#include "astar_path.h"': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>c:\hzhou39_decamar2_ashwina2\se423repo\contest\astarhw\astar\astar.cpp(14): warning C4627: '#include "omapl138_gpiofuncs.h"': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>c:\hzhou39_decamar2_ashwina2\se423repo\contest\astarhw\astar\astar.cpp(15): warning C4627: '#include "pQueue.h"': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>c:\hzhou39_decamar2_ashwina2\se423repo\contest\astarhw\astar\astar.cpp(16): warning C4627: '#include "../../sharedmem_com/sharedmem.h"': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>c:\hzhou39_decamar2_ashwina2\se423repo\contest\astarhw\astar\astar.cpp(615): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "StdAfx.h"' to your source?
+         Generating Code...
+     1>Done Building Project "C:\hzhou39_decamar2_ashwina2\SE423Repo\Contest\astarhw\astar\astar.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.12
