@@ -5,6 +5,8 @@ The goal of this project is to program the robot to navigate to five different (
 
 We have LIDAR, radar, camera sensors on the robot and use A* for path planning.
 
+![Robot Image](/robot.jpg)
+
 Source code for obstacle detection/map building/weed detection/PID controller/state machine is in:
 \Contest\FinalContestRobot2\source\user_FinalContestRobot2.c
 
